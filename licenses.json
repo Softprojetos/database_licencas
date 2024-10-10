@@ -10,10 +10,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "daniel",
         "hid": "8014114ec14c3c40e5ef02f0bfd89d54b177e963d0914fc3ba80114d560d1e4c",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
