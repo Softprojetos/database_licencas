@@ -48,5 +48,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "anderson",
+        "hid": "7e63dd9a56c546f2c5a11352ce0949cc900734fc9a03c5525282304ebae0ff1b",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
