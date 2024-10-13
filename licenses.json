@@ -70,10 +70,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "biel",
         "hid": "85ae2509239e0f9c7893b71e216a680eda5e64e81af40178f673c50b98380ecd",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
