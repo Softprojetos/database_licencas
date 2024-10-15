@@ -120,10 +120,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "ana",
         "hid": "5189613c611f7f79f6e161ef16448c024cb0d1488ef986f24e650ecde124e0d0",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
