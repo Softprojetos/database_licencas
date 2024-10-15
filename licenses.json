@@ -108,5 +108,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "marcos vinicius",
+        "hid": "3fae483813031afbaeaf9bc755d66ca8b8dbe2f4f7bb7d95fc2acf4e713d2bb1",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
