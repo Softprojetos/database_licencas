@@ -90,10 +90,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "matheus",
         "hid": "20ddf3ad89c1507df148b4dfca1dfb97977c97acc015e7e0f8887b24a7a3c7c5",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
