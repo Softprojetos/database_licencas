@@ -148,5 +148,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "lara",
+        "hid": "91f66d1582042ec77f8440cab0ffc207e1a09efbab2dfbe63bf255d1a1bf412f",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
