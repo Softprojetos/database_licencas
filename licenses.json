@@ -160,10 +160,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "kelvyn",
         "hid": "eace5c3f12a6c607194156217a5d3d35f6074c578a79d78d758232bd3c854d25",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
