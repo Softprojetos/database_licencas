@@ -168,5 +168,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "diogo",
+        "hid": "03cd83963857b4f954bb5a633d2a660aad65be36913ec874a73b9fed6a383de7",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
