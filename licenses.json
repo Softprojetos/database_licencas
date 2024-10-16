@@ -180,10 +180,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "formattore",
         "hid": "8f23e6050b4ee0bce4a08b1e1435cba076ff0f926f791976659d19cac8cd454d",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
