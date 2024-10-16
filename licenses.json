@@ -190,10 +190,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "simone",
         "hid": "77bb2b553fa649217a70de71d278e1784acfd94a0cc4c8f5d58301872486cfc2",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
