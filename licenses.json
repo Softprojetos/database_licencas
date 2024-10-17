@@ -238,5 +238,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "ana",
+        "hid": "a6f9b1b3ce1ece9132540eb65e291cce65470c38a9f7fede45d010e27f625261",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
