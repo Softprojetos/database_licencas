@@ -218,5 +218,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "lazaro",
+        "hid": "b1facdf9e3cd5fd655b33057f4f91633f12877a2e1325a6482b984221c6db14c",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
