@@ -278,5 +278,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "casa",
+        "hid": "5443030edc605a08d45b4ab636ad9dfd4e25c0e1318ed1a1eab9ab6b225ae2b2",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
