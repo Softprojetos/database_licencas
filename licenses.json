@@ -308,5 +308,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "castor",
+        "hid": "5da5c2abef4e4d47291d3e85e3cef03d19c816eaeb8e8eadd426085635851a3a",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
