@@ -320,10 +320,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "amarildo",
         "hid": "0104d256aeac806b123c503ef810bbf508825070ee6c7b77f10230ca899405c3",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
