@@ -288,5 +288,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "ingrid",
+        "hid": "ad33e2af273f2c072444ee8afd25e0e498ee348cdabfdc472d3a04d1d73bb4a2",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
