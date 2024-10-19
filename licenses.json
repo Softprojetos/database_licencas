@@ -330,10 +330,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "emerson",
         "hid": "cdc21b27b1062ef9bba2f6cc9ecc19a89a3537892bc3b81f6b9d4da10762ff3c",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
