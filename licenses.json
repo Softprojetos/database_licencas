@@ -360,10 +360,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "luthiane",
         "hid": "0c894b4a335c51cf4d070dd25fb623933d2b9d32e17000e659d63719089e500e",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
