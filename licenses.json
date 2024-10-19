@@ -388,5 +388,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "lucio",
+        "hid": "5dd88b2f8e4020655e83f56b8104237e3c5719205d2b3131c80e9e848451adf0",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
