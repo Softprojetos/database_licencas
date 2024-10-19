@@ -378,5 +378,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "robson",
+        "hid": "5367d5e2e49857fc48ec86d6ee50f6bb6d0ad6eef6b50a18c5ed96d733149c0d",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
