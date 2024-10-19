@@ -338,5 +338,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "rodrigo",
+        "hid": "3d8d80e008e856cc35789142df55d19e0ce6ac9dbc4eb2419a13af923f364dbd",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
