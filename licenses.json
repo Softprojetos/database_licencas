@@ -348,5 +348,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "lgx",
+        "hid": "df84760a445ff21ea5a8df81b0a1f7554a5fd0482874ff1bd8dfc34cecbabbf9",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
