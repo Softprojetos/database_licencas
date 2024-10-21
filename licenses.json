@@ -418,5 +418,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "whaina",
+        "hid": "b671ae4c1ebcbd3906e0a456476d6d39a1d357b7eb59c1a8cf3c712ac08075c5",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
