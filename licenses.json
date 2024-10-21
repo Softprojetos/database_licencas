@@ -430,10 +430,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "robson",
         "hid": "288327fbed9914c77bbf0faa8fba091d7a47ab7b3f46a106c5177acfab301997",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
