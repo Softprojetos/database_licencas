@@ -400,10 +400,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "isaque",
         "hid": "5863bf5502ef45c974d643ce90f873bd5aa79c80cdde9a60598d290a7e36b235",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
