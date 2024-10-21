@@ -438,5 +438,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "monica",
+        "hid": "e1b9b5e84a202859a97dacc93dfc9c69410a80f779cc0c933a7bb5d4bf0b1867",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
