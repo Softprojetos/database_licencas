@@ -448,5 +448,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "erika",
+        "hid": "082d063b94d29e23ce98326431e617d326bf632132dc615899e5e4dfa5b1e281",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
