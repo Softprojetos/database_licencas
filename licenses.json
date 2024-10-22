@@ -520,10 +520,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "luana",
         "hid": "ab98f18d352018ffc5b67f1418a81cbbc97389b0c9ad72b63f249f7b46e853fe",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
