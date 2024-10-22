@@ -488,5 +488,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "vilson",
+        "hid": "8fa97b45839e9624a645f06b8cb5194b73a3731a2de5cb5cf7508f51f4128abb",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
