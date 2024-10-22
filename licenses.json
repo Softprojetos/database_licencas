@@ -480,10 +480,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "bruno",
         "hid": "10f7ce96b0e6d765a0f3eb3ed46870ffa60bfeddf539c38ba1f99e3b7da6236e",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
