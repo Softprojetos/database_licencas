@@ -540,10 +540,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "jonatas",
         "hid": "26c0a20eff3810e24c8b924e8761aab3a5334acdcf75036354b03b3d04fcc1b6",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
