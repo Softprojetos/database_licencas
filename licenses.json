@@ -528,5 +528,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "psilva",
+        "hid": "3b84ae70626841604e8a7806d63e7bc7648824d486dd1f29b8ad4d43fa08a5c9",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
