@@ -470,10 +470,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "grazielle",
         "hid": "e6ded1f3b2167342cebe5c09f041a7d6e80e69f7bfc41099fc00c79a392465ef",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
