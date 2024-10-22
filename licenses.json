@@ -508,5 +508,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "marcelo",
+        "hid": "09c4be1b6089d2c7d6fbff24cb0b27b474d16ec29290016c1d22bed7390f8bda",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
