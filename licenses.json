@@ -580,10 +580,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "octavio",
         "hid": "81fefb452783adc0e622d898b8229d03ab4553e798a4b11ad73037a8d13978a0",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
