@@ -608,5 +608,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "thiago",
+        "hid": "6917e0a2f81b217ffd39276fbd8fcd43e3988838f12ce132c757ca24f5905ed1",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
