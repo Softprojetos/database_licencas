@@ -550,10 +550,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "claudionir",
         "hid": "8d4b965181e7a9586f49a37e2c54351b726e2a2307118f2732ac6a01e12d9489",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
