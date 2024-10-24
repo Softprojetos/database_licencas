@@ -708,5 +708,15 @@
         "versoes": [
             "2"
         ]
+    },
+    {
+        "cliente": "daniel",
+        "hid": "83ae42cbc7e36efd6ae6497099ad294210d5533ddb7066f0be67f8290c827b4d",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
