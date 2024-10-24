@@ -698,5 +698,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "ismael",
+        "hid": "1b061c83cd678188f923ebb1432f51f4d2603fffcdd34108c55cf81c96560d16",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
