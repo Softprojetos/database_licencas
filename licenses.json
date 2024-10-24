@@ -658,5 +658,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "gf",
+        "hid": "afae82918347cb95abf1f989a066554f8b6ac7e18a6790dd804ce2caef874459",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
