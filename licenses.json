@@ -690,10 +690,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "gf2",
         "hid": "456f0d72e62ea8867a713805bd3a2af2f0ed84b4b2f65574ef22593a7da1cfdc",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
