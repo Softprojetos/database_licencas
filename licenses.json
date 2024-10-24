@@ -670,10 +670,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "wiha",
         "hid": "02f923c8f1d8462f6b4e5bf958a430770f6a41cce3aa961ab81c3d46219d2ab0",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
