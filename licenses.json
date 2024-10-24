@@ -678,5 +678,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "dayanne",
+        "hid": "99b35bf7621fa570175d573fffb3bd843fdd2658f054d0dd349237db4e1a1eda",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
