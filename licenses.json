@@ -648,5 +648,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "davi",
+        "hid": "b0d8046f8b6453640194c1bd0e727d26fd0f2f5c40bf673e9ee7647bc515f2a5",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
