@@ -718,5 +718,15 @@
         "versoes": [
             "2"
         ]
+    },
+    {
+        "cliente": "keli",
+        "hid": "c097531f26fe29dc3364acda0920b0b74b75ebb1f3043e89b947a8292a5b5c82",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
