@@ -758,5 +758,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "santos",
+        "hid": "6f7ef6ad2764ba0df93f95068a22427dcf5dd907cb0b8f4095107d49ff3e1072",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
