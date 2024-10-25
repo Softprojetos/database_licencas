@@ -750,10 +750,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "santos",
         "hid": "20a598d47e0612bbc85992a12c0767517b6aacd1d575053a1b18547049e0eb65",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
