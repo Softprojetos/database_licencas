@@ -820,10 +820,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "vinicius",
         "hid": "e34e9f7a031dc32fdedb649d510abfb46131eeca8c592594235265c085f3d5ae",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
