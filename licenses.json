@@ -768,5 +768,15 @@
         "versoes": [
             "2"
         ]
+    },
+    {
+        "cliente": "jhoni",
+        "hid": "48c8f3095eeb42865c762beda09aec99d00919e87e09fc60fd76f87aef87ccc3",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
