@@ -830,10 +830,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "cleverton",
         "hid": "81791b5837ec23f4226f8031d5d79cc0ce3556cf282cc0a3c8bf6a163b98ce90",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
