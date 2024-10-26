@@ -810,10 +810,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "marcelo",
         "hid": "aeaf87a1868bad4fe4372a2973bc598ac71dccae9556c42e59aff13c53611d98",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
