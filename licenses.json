@@ -780,10 +780,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "taisa",
         "hid": "2a4f2d3c96c2b3d7c3dd2d2f4fc11714c57db98379f5b97dd348e1c838bc8bca",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
