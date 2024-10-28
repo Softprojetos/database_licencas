@@ -848,5 +848,15 @@
         "versoes": [
             "2"
         ]
+    },
+    {
+        "cliente": "raphael",
+        "hid": "d5a5c3ce5f75817afdbc71d3cff71eca155653a47412ec8c2443b089181f84f5",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
