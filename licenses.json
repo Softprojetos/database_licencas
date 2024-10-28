@@ -870,10 +870,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "gabriel",
         "hid": "b79e78d4a6d6870eee99efe57e6284dcf701f67f02470c6abbbf6928fff2fb6f",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
