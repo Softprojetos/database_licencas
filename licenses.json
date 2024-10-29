@@ -930,10 +930,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "doug",
         "hid": "acf8ff5cbfe0f4daa6df12a49264eab898959eb5c6a312037057f058872c6edb",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
