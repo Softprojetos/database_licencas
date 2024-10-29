@@ -878,5 +878,15 @@
         "versoes": [
             "2"
         ]
+    },
+    {
+        "cliente": "yamil",
+        "hid": "cb4cb62c1c89529314782418a17afce1f23ec0c6c7c562c91d6e03fea75edd48",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
