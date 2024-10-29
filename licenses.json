@@ -910,10 +910,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "michelly",
         "hid": "a53e6a9548dcf2e8d7b022352fe3b7a253dcb18a718adf845fde09034724ce8",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
