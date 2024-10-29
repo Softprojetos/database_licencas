@@ -950,10 +950,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "edson",
         "hid": "e97270a9c33443d8eb053692deae44a951696f7b9c080da67f86b5c6f53a4c9f",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
