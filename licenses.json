@@ -888,5 +888,15 @@
         "versoes": [
             "2"
         ]
+    },
+    {
+        "cliente": "aline",
+        "hid": "a619bfaa56087e41a089605a628330878749a58a955f172e72be3b7640e6bd67",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
