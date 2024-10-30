@@ -1018,5 +1018,15 @@
         "versoes": [
             "2"
         ]
+    },
+    {
+        "cliente": "vinicius",
+        "hid": "70af49f8d8ba50d13d64d32c392121710b84e70388e1793e39cd52ec5dfb1e18",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
