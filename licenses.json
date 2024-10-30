@@ -968,5 +968,15 @@
         "versoes": [
             "2"
         ]
+    },
+    {
+        "cliente": "nayara",
+        "hid": "b611fe3060e3f33797b522838ab7aa412683c5dcdb7a826b4601b34b0a92be13",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
