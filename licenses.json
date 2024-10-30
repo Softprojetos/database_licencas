@@ -990,10 +990,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "eduarda",
         "hid": "f3c60949f5a88a4788d48c0710748bc5d347349ea75590722a90f9b22d98841e",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
