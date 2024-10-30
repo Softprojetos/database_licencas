@@ -978,5 +978,15 @@
         "versoes": [
             "2"
         ]
+    },
+    {
+        "cliente": "fabio",
+        "hid": "eff955d6be99dc947771c318711ee749ce14a21781630b6f38f9309188f41563",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
