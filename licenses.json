@@ -1000,10 +1000,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "leandro",
         "hid": "473af32e9686fd44223a8cd3cb93732cbe796359dba47606edd3c6c3bb96f9e0",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
