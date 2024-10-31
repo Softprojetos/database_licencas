@@ -1040,10 +1040,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "boho",
         "hid": "c1230f0b30f388c5ba6e5752fe4b697670ded6b03d80511b281bfd7c305dc18f",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
