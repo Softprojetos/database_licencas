@@ -1060,10 +1060,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "caldas",
         "hid": "90a1076c341caaac2d204169cac1224133439cbc014b6f65a7b755465007f0fb",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
