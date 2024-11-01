@@ -1160,10 +1160,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "jeferson",
         "hid": "3dc8e1648848fad023afac85127c3668830977d03f59653348ea534e4d5f9b2c",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
