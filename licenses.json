@@ -1148,5 +1148,15 @@
         "versoes": [
             "2"
         ]
+    },
+    {
+        "cliente": "kkk",
+        "hid": "1727917246f5d51ef96efe6e814321d5095b4732af3e2a47b27a53edf1adae84",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
