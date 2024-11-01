@@ -1108,5 +1108,15 @@
         "versoes": [
             "2"
         ]
+    },
+    {
+        "cliente": "bibiana",
+        "hid": "51bdf1023eaff75a0c68f4ce1d4790dd0b8d987416e8daa94c995978c882f1d1",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
