@@ -1140,10 +1140,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "pc3",
         "hid": "d14d4484a1737d26bb5ebf3ea916366db828ffb4993f8f973f27e67c7abf9930",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
