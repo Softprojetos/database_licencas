@@ -1100,10 +1100,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "viviane",
         "hid": "6b81e4c4b5a56e00e381193121a8d30e6c1d66e850e4e92ebd9ba8f9124178ee",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
