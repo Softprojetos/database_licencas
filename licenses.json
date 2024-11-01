@@ -1090,10 +1090,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "diego",
         "hid": "f9f4a166bec532a240fcc39ace70238b65b09b381f0c63b99af36ef1f61e91d0",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
