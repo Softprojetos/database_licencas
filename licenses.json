@@ -1180,10 +1180,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "matheus",
         "hid": "e06aee474a9798f7e088811c9c4f8e1359952d119c8f67e33719eb072b77842c",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
