@@ -1170,10 +1170,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "viquito",
         "hid": "f8ef47527ddb8b7c0fd5c941744ca43e1ac9f1890d3da87636defa2228d1ca95",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
