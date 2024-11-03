@@ -1198,5 +1198,15 @@
         "versoes": [
             "2"
         ]
+    },
+    {
+        "cliente": "wesley",
+        "hid": "82eb6f86fa6d6d260a0b109fe66b00475d8e9af3a2efadceff083c818fa10c32",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
