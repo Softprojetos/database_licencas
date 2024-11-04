@@ -1240,10 +1240,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "roberto",
         "hid": "e96b9ea53f784af14e7c5dfd7d85c9c1770214e0b12c5a9cc4b25624f644bc9b",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "2"
