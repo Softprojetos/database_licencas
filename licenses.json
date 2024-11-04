@@ -1258,5 +1258,15 @@
         "versoes": [
             "2"
         ]
+    },
+    {
+        "cliente": "natan",
+        "hid": "af4e8b15232e88d0ab05f5bb6116d546a8e9767d1d83f574caa040e7bc4a0f52",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
