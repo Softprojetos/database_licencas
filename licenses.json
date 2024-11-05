@@ -1268,5 +1268,15 @@
         "versoes": [
             "2"
         ]
+    },
+    {
+        "cliente": "giordano",
+        "hid": "3f763ec8418383136ba1e86eebc4b009204d1529f9cdea8f8002ede550694705",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "2"
+        ]
     }
 ]
