@@ -2,16 +2,6 @@
     {
         "active": true,
         "banned": false,
-        "cliente": "marcos",
-        "hid": "d49179c7ea26d7aafd28fab48615df5e62e235390edecfad08813a77e3ee8c25",
-        "license_key": null,
-        "versoes": [
-            "1"
-        ]
-    },
-    {
-        "active": true,
-        "banned": false,
         "cliente": "edson",
         "hid": "248a0eb8d58433d6c9a3ea6ce83e4286a768ab52d6de30d794933546a3d3b201",
         "license_key": null,
