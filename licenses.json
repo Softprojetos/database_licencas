@@ -1,1 +1,12 @@
-
+[
+    {
+        "cliente": "1",
+        "hid": "28729a257887b6615f9fa78ee4f48418f5419b66b651e3f47b3697e1fc54f5b6",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
+    }
+]
