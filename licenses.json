@@ -890,8 +890,18 @@
         ]
     },
     {
+        "active": false,
+        "banned": false,
         "cliente": "1",
         "hid": "8f030826503c09eca4952aa7af7fe8731496c578408be3ce33ff262bd8ce15f9",
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
+    },
+    {
+        "cliente": "1",
+        "hid": "53ed662cc2854e8ad39a7972fdc177bd8caf487d99cc6378842308792b8f2e33",
         "active": false,
         "banned": false,
         "license_key": null,
