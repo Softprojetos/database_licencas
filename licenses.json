@@ -1990,10 +1990,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "1",
         "hid": "c7f97bedb2c52d9028335fc100d76836b1c621c3eec0cbfb25f77292cbd46975",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
