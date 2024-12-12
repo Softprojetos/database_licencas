@@ -2008,5 +2008,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "1",
+        "hid": "1f64af86400fa15eccb8304ffb78ef6bb9dd36865488cfc88c85571834808cde",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
