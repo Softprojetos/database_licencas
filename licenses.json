@@ -8,5 +8,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "1",
+        "hid": "b90acdad904fd643054eeebcada90c5eeb858650a30774edf59a6e1bdfc5766f",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
