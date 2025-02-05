@@ -600,7 +600,7 @@
         ]
     },
     {
-        "active": false,
+        "active": true,
         "banned": false,
         "cliente": "1",
         "hid": "e8ab1cd5f17f2c0448418bb53c97b480e68e5067257422ce5f3c3caa2c28b4b4",
