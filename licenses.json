@@ -1980,10 +1980,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "1",
         "hid": "834db0d66cf5eddce2c52acbde6da19f379a68dc6ca2b95c8de8b93a103621d6",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
