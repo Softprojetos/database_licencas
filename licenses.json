@@ -2020,10 +2020,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "1",
         "hid": "9477841e6fcb3dadd47a3480eb90f626c2a17ce2c177ffde32eb8c9cdc9e72c2",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
