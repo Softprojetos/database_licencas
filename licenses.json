@@ -1998,5 +1998,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "1",
+        "hid": "cfe4df7ab01e47bcb7234f2da6c110a1c2614fbabd96731d195f99754cd7059d",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
