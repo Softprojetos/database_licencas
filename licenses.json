@@ -2010,10 +2010,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "1",
         "hid": "6bdec417c05b268218f6aa65ed1c804d3aa6e1c765a7c04715084eb820923ebd",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
