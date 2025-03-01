@@ -2550,8 +2550,18 @@
         ]
     },
     {
+        "active": false,
+        "banned": false,
         "cliente": "1",
         "hid": "c5f685f6769902f6f2e953285e4d18788a673d3edc493d6ce55e9b9d974921bb",
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
+    },
+    {
+        "cliente": "1",
+        "hid": "241dd8c1478e4132b955b9c6778b6ce0c06d25cab29d3d0ab96fcdbfacf386af",
         "active": false,
         "banned": false,
         "license_key": null,
