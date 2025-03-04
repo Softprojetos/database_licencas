@@ -2620,70 +2620,10 @@
         ]
     },
     {
-        "active": true,
-        "banned": false,
         "cliente": "1",
-        "hid": "d96f630c6c1258d50c9e148b90db781c78fbbc5878455d65b2ba0a1e0d777e79",
-        "license_key": null,
-        "versoes": [
-            "1"
-        ]
-    },
-    {
-        "active": true,
+        "hid": "2105d0eaab1a98054ba27ba6f3bae3811ca27b346399e4d135a168f201e85ada",
+        "active": false,
         "banned": false,
-        "cliente": "1",
-        "hid": "56264895d305ee00fe0bdf70c039a67953492a98845429d30759142130590153",
-        "license_key": null,
-        "versoes": [
-            "1"
-        ]
-    },
-    {
-        "active": true,
-        "banned": false,
-        "cliente": "1",
-        "hid": "17930e4af6c6a624425af0936a4eaf3d2bcba8d29588f6ace453b30b339d53a6",
-        "license_key": null,
-        "versoes": [
-            "1"
-        ]
-    },
-    {
-        "active": true,
-        "banned": false,
-        "cliente": "1",
-        "hid": "cbd213e224b752dfe75c76581d37dc06e3afe3bae19b559cc272aa3068c040e1",
-        "license_key": null,
-        "versoes": [
-            "1"
-        ]
-    },
-    {
-        "active": true,
-        "banned": false,
-        "cliente": "1",
-        "hid": "e2fdfd76dea51ad9af29c64a40216a9dc4fc24695d261854cdc1fbbc965c267e",
-        "license_key": null,
-        "versoes": [
-            "1"
-        ]
-    },
-    {
-        "active": true,
-        "banned": false,
-        "cliente": "1",
-        "hid": "afc7e9bf102574ad7731370ffb43c851711fdb24883afe31888ad6994e488f21",
-        "license_key": null,
-        "versoes": [
-            "1"
-        ]
-    },
-    {
-        "active": true,
-        "banned": false,
-        "cliente": "1",
-        "hid": "62baf80d52f61777865fb690a90261067698ab131fa7cf27e1cc678027fb93d2",
         "license_key": null,
         "versoes": [
             "1"
