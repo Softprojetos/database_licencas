@@ -3588,5 +3588,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "1",
+        "hid": "34589cfdb8dfb1c8024dcb8ad7a883823fccc2447aaaa6b4d40855f252a8f879",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
