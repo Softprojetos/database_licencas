@@ -4678,5 +4678,15 @@
         "versoes": [
             "1"
         ]
+    },
+    {
+        "cliente": "1",
+        "hid": "Maicon\n\n2bc74cd87c2e6ea53b462435660dec0c55ef0d002ab3d8a522c0eeec7b88657a",
+        "active": false,
+        "banned": false,
+        "license_key": null,
+        "versoes": [
+            "1"
+        ]
     }
 ]
