@@ -4840,10 +4840,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "1",
         "hid": "5a3e19c3a4ec201ecf79f8d294bf4e307384623142fb8f69f26556ba3c4cea38",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
