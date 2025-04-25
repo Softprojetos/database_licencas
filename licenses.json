@@ -5970,10 +5970,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "1",
         "hid": "ac4d9ffc2c0c56d599143cb63108dcea45ac5a59091644e06aecab6ecd6435a9",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
