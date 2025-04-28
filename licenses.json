@@ -1,9 +1,9 @@
 [
     {
+        "active": true,
+        "banned": false,
         "cliente": "1",
         "hid": "6f62fff31ed65b3cea02afdb558ddb3c310d101791682e599055f2466ccfc747",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
