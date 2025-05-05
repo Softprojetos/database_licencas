@@ -370,7 +370,7 @@
         ]
     },
     {
-        "active": false,
+        "active": true,
         "banned": false,
         "cliente": "1",
         "hid": "9fc700bea487cb9d52fc60240a7d14d891e2742d7fad04bb096fcc6f0ef09c50",
