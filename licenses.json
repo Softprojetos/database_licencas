@@ -2130,7 +2130,7 @@
         ]
     },
     {
-        "active": false,
+        "active": true,
         "banned": false,
         "cliente": "1",
         "hid": "b7c811ddf1daa2df7ea5dcda27812c14a2354b1e2a3936c1c141b7a03061a68b",
@@ -2180,10 +2180,10 @@
         ]
     },
     {
-        "cliente": "1",
-        "hid": "e62766ff838fed53b03bc336f0eff0a9c5d725672ab6fc9bb934f0973a68418c",
         "active": false,
         "banned": false,
+        "cliente": "1",
+        "hid": "e62766ff838fed53b03bc336f0eff0a9c5d725672ab6fc9bb934f0973a68418c",
         "license_key": null,
         "versoes": [
             "1"
