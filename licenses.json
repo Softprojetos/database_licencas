@@ -4470,10 +4470,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "1",
         "hid": "2c4ae016f2c3b51e2f1dbc75cad9402fba37da4c0faa275e5f920b55126ead74",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
