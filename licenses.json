@@ -4910,10 +4910,10 @@
         ]
     },
     {
+        "active": true,
+        "banned": false,
         "cliente": "1",
         "hid": "459e9b1d9998e99a83f28af02d12c8c9a7b5f712dc047b1d3adfd127032f0d58",
-        "active": false,
-        "banned": false,
         "license_key": null,
         "versoes": [
             "1"
