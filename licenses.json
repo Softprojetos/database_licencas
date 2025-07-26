@@ -6418,15 +6418,5 @@
         "versoes": [
             "1"
         ]
-    },
-    {
-        "active": true,
-        "banned": false,
-        "cliente": "1",
-        "hid": "92A4-CD2D-C7CD-CAF5-BD98-A301",
-        "license_key": null,
-        "versoes": [
-            "1"
-        ]
     }
 ]
