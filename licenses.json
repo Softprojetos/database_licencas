@@ -5073,5 +5073,12 @@
     "Ativa": false,
     "Banida": false,
     "Versao": null
+  },
+  {
+    "Cliente": "1",
+    "HID": "0000000000000000707C1874ABAA833C",
+    "Ativa": false,
+    "Banida": false,
+    "Versao": "bibliotecas"
   }
 ]
