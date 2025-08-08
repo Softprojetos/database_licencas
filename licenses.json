@@ -5112,7 +5112,7 @@
   {
     "Cliente": "1",
     "HID": "DESKTOP-77H2PGS",
-    "Ativa": false,
+    "Ativa": true,
     "Banida": false,
     "Versao": "bibliotecas"
   }
