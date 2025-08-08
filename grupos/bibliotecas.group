@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GROUP NAME="Bibliotecas" DIRECTORY="Bibliotecas" DESCRIPTION="" INVISIBLE="N" BDATACRYPTOTYPE="1">
+  <ENTITYEVENTS CODON="/documentos/sugestao/entityEvents" />
+  <WALLDEFINITION>
+    <MATERIAL ID="cin_cor_000" />
+    <LAYER DESCRIPTION="Parede" />
+  </WALLDEFINITION>
+  <LIGHTDEFINITION>
+    <LAYER DESCRIPTION="Luz" />
+  </LIGHTDEFINITION>
+  <GEOMETRYDEFINITION>
+    <MATERIAL ID="cin_cor_000" />
+    <LAYER DESCRIPTION="Geometria" />
+  </GEOMETRYDEFINITION>
+  <FLOORDEFINITION>
+    <MATERIAL ID="cin_cor_000" />
+    <LAYER DESCRIPTION="Piso" />
+  </FLOORDEFINITION>
+  <CEILINGDEFINITION>
+    <MATERIAL ID="cin_cor_000" />
+    <LAYER DESCRIPTION="Teto" />
+  </CEILINGDEFINITION>
+  <BUDGET>
+    <INFORMATION RULE="UN" />
+    <STEPS />
+    <PRICE PROVIDER="Plus" FONT="BancoDados" />
+  </BUDGET>
+  <DRAWING>
+    <LIMITS>
+      <MIN X="0" Y="-1" Z="0" />
+      <MAX X="1" Y="0" Z="1" />
+    </LIMITS>
+    <DIMENSION WIDTH="1" HEIGHT="1" DEPTH="1" />
+  </DRAWING>
+  <VERSION>NS4zNS4x</VERSION>
+  <PROPOSEDATTRIBUTES />
+  <DRAWINGS />
+  <EXPLORERITEMCOLLECTION>
+    <EXPLORERITEM TYPE="group" ID="cozinhas" DEF="Cozinhas.group" GUID="a36eb867-14a4-4715-a579-9967228dcf73" />
+    <EXPLORERITEM TYPE="group" ID="cozinhas_cava" DEF="Cozinhas Cava.group" GUID="4ee31ed7-bb7d-48f8-9bc5-84d351d7196a" />
+    <EXPLORERITEM TYPE="group" ID="dormitorios" DEF="Dormitorios.group" GUID="5e866535-fccd-4539-bb14-4c5e4e5066de" />
+    <EXPLORERITEM TYPE="group" ID="banheiros" DEF="Banheiros.group" GUID="b1137e1f-362f-4f2e-857d-ee5751e6b7a0" />
+    <EXPLORERITEM TYPE="group" ID="escritorios" DEF="Escritorios.group" GUID="7e5c345e-23db-4a99-90c9-cfdd9989afc5" />
+    <EXPLORERITEM TYPE="group" ID="salas" DEF="Salas.group" GUID="12af6ef8-b194-4d1f-ad5f-621ed1cd4e46" />
+    <EXPLORERITEM TYPE="group" ID="estofados" DEF="Estofados.group" GUID="2ba5a7f7-0256-4b06-b797-4d0f7742c04e" />
+    <EXPLORERITEM TYPE="group" ID="acessorios" DEF="Acessorios.group" GUID="2008e5dc-3960-47dc-ba11-21c548678683" />
+    <EXPLORERITEM TYPE="group" ID="puxadores" DEF="Puxadores.group" GUID="ac4da79f-d7cd-4ab1-8a59-77ff18b4bc9d" />
+    <EXPLORERITEM TYPE="group" ID="puxadores_par" DEF="Puxadores Parceiros.group" GUID="b7c794d8-cc08-4e3e-8ae6-330bcd1a66ed" />
+    <EXPLORERITEM TYPE="group" ID="decore" DEF="Decore.group" GUID="7141b0c4-c889-4693-b29b-78b11710869c" />
+    <EXPLORERITEM TYPE="group" ID="cinex" DEF="cinex.group" GUID="f368361c-a5e3-482f-a0be-0934fc2db32e" />
+    <EXPLORERITEM TYPE="group" ID="Tramontina" DEF="Tramontina.group" GUID="02764ab6-63c2-45c4-9f0a-79bf9f1864dd" />
+    <EXPLORERITEM TYPE="group" ID="falmec" DEF="Falmec.group" GUID="b6fd801c-669d-4233-b525-bf1f1b14ec66" />
+    <EXPLORERITEM TYPE="group" ID="smeg" DEF="Smeg.group" GUID="91e13cfc-91d1-4599-8603-ff4d8942fdab" />
+    <EXPLORERITEM TYPE="group" ID="ele_ele" DEF="Electrolux.group" GUID="63ffe079-cfc2-4afa-83bf-f802e409c4bb" />
+    <EXPLORERITEM TYPE="group" ID="persol" DEF="Persol.group" GUID="ec9d75ea-bfd8-41ab-adc8-45fd96dcc871" />
+    <EXPLORERITEM TYPE="group" ID="franke" DEF="franke.group" GUID="93a5e475-2c03-4e9f-8bfb-6dd8ebae9079" />
+    <EXPLORERITEM TYPE="group" ID="lofra" DEF="lofra.group" GUID="876f9456-76c0-4ce0-a7cf-a0306bde509a" />
+    <EXPLORERITEM TYPE="group" ID="bosch" DEF="Bosch.group" GUID="bb00860a-8ed0-474b-9afd-b1fbc09a2316" />
+    <EXPLORERITEM TYPE="group" ID="arix" DEF="Arix.group" GUID="10b0271a-850d-4540-9b94-baa6f1495e78" />
+    <EXPLORERITEM TYPE="group" ID="crissair" DEF="crissair.group" GUID="9b26d8e3-5729-4c32-98ac-33e9384773e5" />
+    <EXPLORERITEM TYPE="group" ID="hettich" DEF="Hettich.group" GUID="814ff0c1-6adf-40b1-bb20-a87a3d2de462" />
+    <EXPLORERITEM TYPE="group" ID="mekal" DEF="mekal.group" GUID="7fca53df-e72c-4c30-866f-90c92c9d505b" />
+    <EXPLORERITEM TYPE="group" ID="blum" DEF="Blum.group" GUID="f006cc3d-7abc-4471-9bb3-34ec3b30a624" />
+    <EXPLORERITEM TYPE="group" ID="debacco" DEF="debacco.group" GUID="82384610-20af-4600-9e0c-19ad2cf1ea82" />
+    <EXPLORERITEM TYPE="group" ID="incomaq" DEF="incomaq.group" GUID="acef28b2-64fa-4936-8246-c470005f5cdf" />
+    <EXPLORERITEM TYPE="group" ID="reval" DEF="reval.group" GUID="9275a3df-61e7-4355-a87d-890a5f35a414" />
+    <EXPLORERITEM TYPE="group" ID="origin" DEF="origin.group" GUID="00b41dd5-2bef-4b27-836e-9b3628c6adee" />
+    <EXPLORERITEM TYPE="group" ID="tidelli" DEF="Tidelli.group" GUID="e3b82386-1923-41c6-8819-2adaece73181" />
+    <EXPLORERITEM TYPE="group" ID="masotti" DEF="Masotti.group" GUID="a8d3dc68-873d-4356-b826-412563e547fb" />
+    <EXPLORERITEM TYPE="group" ID="Masutti_Copat" DEF="masutti_copat.group" GUID="331c548c-2724-4902-bb92-47cfbf4ae976" />
+    <EXPLORERITEM TYPE="group" ID="rubinettos" DEF="rubinettos.group" GUID="da055a8a-e819-4659-a1b0-03874d3415f0" />
+    <EXPLORERITEM TYPE="group" ID="pux_zen" DEF="Zen.group" GUID="e4e00a89-86a3-4a29-9a28-963ec6286281" />
+    <EXPLORERITEM TYPE="group" ID="ancezki" DEF="Ancezki.group" GUID="760e49b7-01de-4582-b7e7-e662575cb6b6" />
+    <EXPLORERITEM TYPE="group" ID="brastemp" DEF="brastemp.group" GUID="1d625543-f729-4b85-894c-eec1afc44d21" />
+    <EXPLORERITEM TYPE="group" ID="omp" DEF="omp.group" GUID="e34eb18e-241a-4d77-9eeb-10827c8ce5e9" />
+    <EXPLORERITEM TYPE="group" ID="suggar" DEF="suggar.group" GUID="b372d5dd-51b5-4ea3-b4fc-f2858d199c6d" />
+    <EXPLORERITEM TYPE="group" ID="sai_cla" DEF="sai_cla.group" GUID="a1c65b32-e2f0-4694-b531-622fc68659f2" />
+    <EXPLORERITEM TYPE="group" ID="Pux_usitop" DEF="Usitop.group" GUID="fa82b2f5-9085-4d6e-8f07-95667572962b" />
+    <EXPLORERITEM TYPE="group" ID="brasilpost" DEF="BrasilPost.group" GUID="62ba967b-9a64-4fef-a2ab-618e3cf8e196" />
+    <EXPLORERITEM TYPE="group" ID="mad_mad" DEF="madelustre.group" GUID="d5379669-d0a5-4032-adb7-14283539bed7" />
+    <EXPLORERITEM TYPE="group" ID="Alumiglass" DEF="Alumiglass.group" GUID="7435fc0e-5f13-41e0-93fb-c25162791c80" />
+    <EXPLORERITEM TYPE="group" ID="casavitra" DEF="casavitra.group" GUID="6b43dead-6245-47dc-a430-58486eeafeac" />
+    <EXPLORERITEM TYPE="group" ID="tra_mov" DEF="Tramontina moveis.group" GUID="9efba422-146c-4131-a8e2-e3a004c7a19e" />
+    <EXPLORERITEM TYPE="group" ID="mabe" DEF="Mabe Eletrodomesticos.group" GUID="51f3e851-bf28-45b2-aef3-6b10ed724675" />
+    <EXPLORERITEM TYPE="group" ID="fgv" DEF="FgvTn.group" GUID="9d341498-5d48-434d-9ecc-15482d8df104" />
+    <EXPLORERITEM TYPE="group" ID="Aramados Jomer" DEF="Jomer.group" GUID="2d38ea04-85cd-401d-8e09-544f1c44520e" />
+    <EXPLORERITEM TYPE="group" ID="Cata" DEF="Cata.group" GUID="cc0e1adf-b128-4fa8-ab79-789b76938d3b" />
+    <EXPLORERITEM TYPE="group" ID="portabille" DEF="Portabille.group" GUID="615c3a6f-b5e9-49d5-b1ff-a361a5e9de9d" />
+    <EXPLORERITEM TYPE="group" ID="cad_cad" DEF="Cadence.group" GUID="8588fab0-b01d-426b-adcd-1a1adb17468e" />
+    <EXPLORERITEM TYPE="group" ID="sis_dur" DEF="Duranox.group" GUID="ae26551a-4036-4b1c-80d8-4d423a221d0d" />
+    <EXPLORERITEM TYPE="group" ID="ron" DEF="Roncali.group" GUID="d807b5ef-ff11-4959-8ea4-bcf3fb26854f" />
+    <EXPLORERITEM TYPE="group" ID="consul" DEF="Consul.group" GUID="de7973e0-45e6-433c-b39b-c14155738ec6" />
+    <EXPLORERITEM TYPE="group" ID="pux_obi" DEF="Obispa.group" GUID="f59634c5-cbcc-4350-b06a-3c5e1c1dc8a6" />
+    <EXPLORERITEM TYPE="group" ID="esquadrimed" DEF="esquadrimed.group" GUID="20f73042-54e4-4073-8f04-93013b91e0bb" />
+    <EXPLORERITEM TYPE="group" ID="wp" DEF="WP DuPont Corian.group" GUID="99694ddf-07f7-4a4d-8e1c-1627b98005b6" />
+    <EXPLORERITEM TYPE="group" ID="Ezdoor" DEF="Ezdoor.group" GUID="1832e32f-d31b-41e4-b5ad-a5ff7364d00e" />
+    <EXPLORERITEM TYPE="group" ID="sis_cos" DEF="Contatto.group" GUID="4ae3d92c-068e-497e-9720-efb151b2cacd" />
+    <EXPLORERITEM TYPE="group" ID="salvatore" DEF="Salvatore.group" GUID="15a015b5-c3e4-4dbc-bf3a-fa4ed861a371" />
+    <EXPLORERITEM TYPE="group" ID="pux_tor" DEF="torralba.group" GUID="f57086ca-2d2a-4bbc-97eb-c8c8516ce248" />
+    <EXPLORERITEM TYPE="group" ID="sofisticato" DEF="Sofisticato.group" GUID="534ca853-aa88-4c46-95d4-fb00056dee0d" />
+    <EXPLORERITEM TYPE="group" ID="panizzi" DEF="panizzi.group" GUID="dfd89976-c92b-4283-922d-66bbfb4e20d8" />
+    <EXPLORERITEM TYPE="group" ID="perlare" DEF="perlare.group" GUID="f85fac9e-046a-4a2b-987a-2ff5eff8dd68" />
+    <EXPLORERITEM TYPE="group" ID="elettromec" DEF="Elettromec.group" GUID="5b3a87b8-cdb4-4f39-9a74-4f1f50f865cb" />
+    <EXPLORERITEM TYPE="group" ID="fischer" DEF="fischer.group" GUID="215e16a0-3476-48ec-aa42-b5b7c8a28411" />
+    <EXPLORERITEM TYPE="group" ID="accord_Iluminacao" DEF="Accord Iluminacao.group" GUID="ace50209-abfb-4f3f-938a-3575f86f73d7" />
+    <EXPLORERITEM TYPE="group" ID="Hafele" DEF="Hafele.group" GUID="60679bb0-60b0-48da-95dd-9477fc231ec4" />
+    <EXPLORERITEM TYPE="group" ID="Villaggio" DEF="Villaggio.group" GUID="1e631deb-4bd2-483e-9a49-30a192dbdd54" />
+    <EXPLORERITEM TYPE="group" ID="LIF_1158" DEF="LIF_Elementi.group" GUID="8e6a00f0-20fb-4a76-8508-b3afbc337100" />
+    <EXPLORERITEM TYPE="group" ID="amma1192" DEF="amma1192.group" GUID="8c7f2489-ec9b-4717-8baf-2cd3ec386a6f" />
+    <EXPLORERITEM TYPE="group" ID="Perfar" DEF="Perfar.group" GUID="8204d35c-3d3e-4edd-b3f0-95304fc847a0" />
+    <EXPLORERITEM TYPE="group" ID="Metal_Design" DEF="Metal_Design.group" GUID="fe71555b-e663-4901-a59a-53319889164b" />
+    <EXPLORERITEM TYPE="group" ID="neo" DEF="NeoComponente.group" GUID="de2cefc3-2f88-4fb9-b226-bcc7fee1bbdd" />
+    <EXPLORERITEM TYPE="group" ID="Fle1198" DEF="Flexa_Componentes.group" GUID="1e87399f-e6df-4e2e-a397-af64dd2322c0" />
+    <EXPLORERITEM TYPE="group" ID="LG" DEF="LG.group" GUID="2175c5cf-47f8-4c83-b307-20cdadd645b0" />
+    <EXPLORERITEM TYPE="group" ID="Dutotec_2167" DEF="Dutotec.group" GUID="a8af5b4d-f975-44d9-b7a6-a6f22604d22c" />
+    <EXPLORERITEM TYPE="group" ID="omega_viratto" DEF="Omega_Viratto.group" GUID="d487bf23-baed-42a7-8b60-755ab619099a" />
+    <EXPLORERITEM TYPE="group" ID="Rometal" DEF="Rometal.group" GUID="9c235238-52b3-4787-bc12-0ba2005eadf0" />
+    <EXPLORERITEM TYPE="group" ID="altero" DEF="altero.group" GUID="e27ce2e4-3840-4318-9bb1-c56920c1166a" />
+    <EXPLORERITEM TYPE="group" ID="reativa" DEF="Reativa.group" GUID="e3f62207-f3cf-4e31-b089-3ba57918dc48" />
+    <EXPLORERITEM TYPE="group" ID="cla_a_lar_" DEF="Classe_A_Lareiras.group" GUID="8b1d0b49-0c20-456d-870b-b3a1a88593b2" />
+    <EXPLORERITEM TYPE="group" ID="2468_Dimec" DEF="dimec.group" GUID="98eafe1c-bb6b-4bcf-8b3e-a5008c02767b" />
+    <EXPLORERITEM TYPE="group" ID="Lucap" DEF="Lucap.group" GUID="0ad3045e-f6a4-4d4c-967f-3a9630c89dcb" />
+    <EXPLORERITEM TYPE="group" ID="SAS_Plastic" DEF="SAS_Plastic.group" GUID="5f837e0d-093b-4a8a-8b9a-d38767eeade6" />
+    <EXPLORERITEM TYPE="group" ID="Sulfer" DEF="Sulfer.group" GUID="7adc6e20-11c2-4d9e-9679-e0cc21c6d133" />
+    <EXPLORERITEM TYPE="group" ID="Led_Line" DEF="Led Line.group" GUID="37f1f133-dbe2-453c-8ec6-298ca2d78d96" />
+    <EXPLORERITEM TYPE="group" ID="Reflexo_Glass" DEF="Reflexo_Glass.group" GUID="6a6688c8-0116-4ae5-ad6f-ae965fbf4076" />
+    <EXPLORERITEM TYPE="group" ID="Orange_Bed" DEF="orangeBed.group" GUID="2aace845-3952-481a-b7a0-cfea6bc9fb89" />
+    <EXPLORERITEM TYPE="group" ID="mueller" DEF="Mueller.group" GUID="af34eb65-2373-4059-99c5-56b828f59b70" />
+    <EXPLORERITEM TYPE="group" ID="mim_2783" DEF="Mimo_Dsn.group" GUID="3ce24517-0d1b-41c8-a479-ed9f610e7efa" />
+    <EXPLORERITEM TYPE="group" ID="East_Glass" DEF="East_Glass.group" GUID="9d71e2a2-075c-4114-82d7-0f4ee26e19be" />
+    <EXPLORERITEM TYPE="group" ID="Metal_House" DEF="Metal_House.group" GUID="d0b8c012-5dac-4be5-9193-762efa0580dd" />
+    <EXPLORERITEM TYPE="group" ID="Adipar" DEF="Adipar.group" GUID="e5d0ee76-6242-4fea-a612-9def1b5fe36c" />
+    <EXPLORERITEM TYPE="group" ID="sis_con" DEF="Continental.group" GUID="767e81de-d871-4e59-8b48-b64365495f65" />
+    <EXPLORERITEM TYPE="group" ID="Soldax" DEF="Soldax.group" GUID="431a30de-74a7-4986-af70-8a3c1bf79c3a" />
+    <EXPLORERITEM TYPE="group" ID="Cosentino" DEF="Cosentino.group" GUID="b65889b0-bd52-4a2c-9472-011da23f3c70" />
+    <EXPLORERITEM TYPE="group" ID="Vort" DEF="Vort.group" GUID="6d6c4a75-fd57-4452-8154-e9acb66a0c07" />
+    <EXPLORERITEM TYPE="group" ID="Tecnovidro" DEF="Tecnovidro.group" GUID="9296b97b-e8ee-4b6d-ba37-d2c6f7581ae8" />
+    <EXPLORERITEM TYPE="group" ID="leo_3025" DEF="Leo_Madeiras.group" GUID="193fe71a-ed93-4d8b-8813-181cc7af0b02" />
+    <EXPLORERITEM TYPE="group" ID="Siforma_6034" DEF="Siforma.group" GUID="5a66742d-ca87-473a-8998-d9282e1f9a5d" />
+    <EXPLORERITEM TYPE="group" ID="Invita" DEF="Invita.group" GUID="480709db-be05-4f2e-90d7-75b27bbcf7e2" />
+    <EXPLORERITEM TYPE="group" ID="Sunlux" DEF="Sunlux.group" GUID="6f4db35d-e90c-467f-a739-3ed3ac4c7dad" />
+    <EXPLORERITEM TYPE="group" ID="WURTH" DEF="Wurth.group" GUID="d390a694-2bfd-4d0d-8a7b-0a6bf97df620" />
+    <EXPLORERITEM TYPE="group" ID="DT_Vidros" DEF="DT_Vidros.group" GUID="a29c5893-4660-4958-a844-3e6932bfcfba" />
+    <EXPLORERITEM TYPE="group" ID="dub_com" DEF="Dublin Complementos.group" GUID="ed1b0430-425a-4342-b18a-e5fd9019e483" />
+    <EXPLORERITEM TYPE="group" ID="Duoz_Organizadores" DEF="Duoz_Organizadores.group" GUID="9d16e957-7bac-4819-a16b-d9a95a54cdd3" />
+    <EXPLORERITEM TYPE="group" ID="Revoled" DEF="Revoled.group" GUID="7644bff8-a252-4a1b-9076-6a863f905bb3" />
+    <EXPLORERITEM TYPE="group" ID="Aluni_Portas" DEF="Aluni_Portas.group" GUID="15453267-47fd-4c26-9ebf-de78f37cb205" />
+    <EXPLORERITEM TYPE="group" ID="Alpam" DEF="Alpam.group" GUID="07f7c1f0-dffc-4469-af45-dba6d6b3f4fd" />
+    <EXPLORERITEM TYPE="group" ID="est_3649" DEF="Estitech.group" GUID="c9359164-350c-4cc4-8732-2708057f962c" />
+    <EXPLORERITEM TYPE="group" ID="Gaya_Iluminacao" DEF="Gaya_Iluminacao.group" GUID="30981f75-d6d3-41ba-a49e-089b8fedd725" />
+    <EXPLORERITEM TYPE="group" ID="Gre_3480" DEF="Green_Design.group" GUID="172b4b60-f3d1-4420-beba-fbc9bf8e747c" />
+    <EXPLORERITEM TYPE="group" ID="VON_ORT" DEF="VON_ORT.group" GUID="5b6c7b76-0b38-4164-a82f-7b10584a21b2" />
+    <EXPLORERITEM TYPE="group" ID="Imperio_do_Marceneiro" DEF="Imperio_do_Marceneiro.group" GUID="ac6db027-ca73-4c2c-90cc-bbf73b95c517" />
+    <EXPLORERITEM TYPE="group" ID="Criativa_Puxadores" DEF="Criativa_Puxadores.group" GUID="b0698ac4-3cb5-465a-94bf-436c9b20d63d" />
+    <EXPLORERITEM TYPE="group" ID="Scheer_Churrasqueiras" DEF="Scheer_Churrasqueiras.group" GUID="93282b87-37d7-4228-bd4b-a838f9f42976" />
+    <EXPLORERITEM TYPE="group" ID="Italyline" DEF="Italyline.group" GUID="010394a6-960a-4ac0-88d7-0e2a5a62643d" />
+    <EXPLORERITEM TYPE="group" ID="Pigmento_Laqueados" DEF="Pigmento_Laqueados.group" GUID="9d0f997e-93b8-41ee-a9c1-f7d7221abb92" />
+    <EXPLORERITEM TYPE="group" ID="Artetilica" DEF="Artetilica.group" GUID="b2b1c0ad-e738-43d4-8c63-9dabfec61928" />
+    <EXPLORERITEM TYPE="group" ID="Tabone" DEF="Tabone.group" GUID="53446bc0-120f-4515-b03b-c5d47d0099cd" />
+    <EXPLORERITEM TYPE="group" ID="Extra_Glass" DEF="Extra_Glass.group" GUID="3647b4d6-26b6-423a-b9ae-6d1a298e8e0f" />
+  </EXPLORERITEMCOLLECTION>
+</GROUP>
