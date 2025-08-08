@@ -5108,5 +5108,12 @@
     "Ativa": true,
     "Banida": false,
     "Versao": "bibliotecas"
+  },
+  {
+    "Cliente": "1",
+    "HID": "DESKTOP-77H2PGS",
+    "Ativa": false,
+    "Banida": false,
+    "Versao": "bibliotecas"
   }
 ]
