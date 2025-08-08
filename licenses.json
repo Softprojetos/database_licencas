@@ -5122,5 +5122,12 @@
     "Ativa": true,
     "Banida": false,
     "Versao": "bibliotecas"
+  },
+  {
+    "Cliente": "1",
+    "HID": "0000_0000_0000_0000_707C_1874_ABAA_833C",
+    "Ativa": false,
+    "Banida": false,
+    "Versao": "bibliotecas"
   }
 ]
