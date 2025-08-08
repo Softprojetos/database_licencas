@@ -5063,7 +5063,7 @@
   {
     "Cliente": "1",
     "HID": "f03a3e649e3a1bd8862fb20999ebca4ad08ef1a55c9e0f049b5df622dded78f5",
-    "Ativa": false,
+    "Ativa": true,
     "Banida": false,
     "Versao": null
   }
