@@ -5076,13 +5076,6 @@
   },
   {
     "Cliente": "1",
-    "HID": "1B0E348A-6478-4E46-86C6-9DF6038F8DB4",
-    "Ativa": false,
-    "Banida": false,
-    "Versao": null
-  },
-  {
-    "Cliente": "1",
     "HID": "0000000000000000707C1874ABAA833C",
     "Ativa": true,
     "Banida": false,
