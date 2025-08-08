@@ -5077,7 +5077,7 @@
   {
     "Cliente": "1",
     "HID": "YTGM221203358",
-    "Ativa": false,
+    "Ativa": true,
     "Banida": false,
     "Versao": "bibliotecas"
   }
