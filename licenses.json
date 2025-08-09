@@ -5066,5 +5066,12 @@
     "Ativa": true,
     "Banida": false,
     "Versao": "bibliotecas"
+  },
+  {
+    "Cliente": "1",
+    "HID": "PCH081A000198",
+    "Ativa": true,
+    "Banida": false,
+    "Versao": "bibliotecas"
   }
 ]
