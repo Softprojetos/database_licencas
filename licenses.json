@@ -5069,13 +5069,6 @@
   },
   {
     "Cliente": "1",
-    "HID": "aab0c59b03b4fb55fa26618fd31c082ef45685a5eeeedc5f074f9b165721e29f",
-    "Ativa": true,
-    "Banida": false,
-    "Versao": "bibliotecas"
-  },
-  {
-    "Cliente": "1",
     "HID": "0026B76826DF5EB5",
     "Ativa": true,
     "Banida": false,
