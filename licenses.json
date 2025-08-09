@@ -5080,5 +5080,12 @@
     "Ativa": true,
     "Banida": false,
     "Versao": "bibliotecas"
+  },
+  {
+    "Cliente": "1",
+    "HID": "0RABRKER",
+    "Ativa": true,
+    "Banida": false,
+    "Versao": "bibliotecas"
   }
 ]
